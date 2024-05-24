@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="01. Create_a_Table.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-text>CREATE DATABASE &quot;minions_db&quot;</script-text>
+    <method v="2" />
+  </configuration>
+</component>
