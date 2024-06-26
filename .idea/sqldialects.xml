@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/01. PostgresSQL_Introduction_LAB/01. Create_Tables.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/01. PostgresSQL_Introduction_LAB/02. Alter_Tables.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/01. PostgresSQL_Introduction_LAB/04. Add_Constraints.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/01. PostgresSQL_Introduction_LAB/05. Modify_Columns.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/01. PostgresSQL_Introduction_LAB/06. Truncate_Tables.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/01. PostgresSQL_Introduction_LAB/07. Drop_Tables.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/02. Untroduction_Exercise/01. Create_a_Table.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/02. Untroduction_Exercise/02. Rename_the_table.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/02. Untroduction_Exercise/03. Alter_the_Table.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/02. Untroduction_Exercise/04. Rename_Column.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/02. Untroduction_Exercise/05. Add_New_Columns.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/02. Untroduction_Exercise/06. Create_ENUM_Type.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/01.PostgresSQL_Introduction_LAB/01. Create_Tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/01.PostgresSQL_Introduction_LAB/02. Alter_Tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/01.PostgresSQL_Introduction_LAB/04. Add_Constraints.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/01.PostgresSQL_Introduction_LAB/05. Modify_Columns.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/01.PostgresSQL_Introduction_LAB/06. Truncate_Tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/01.PostgresSQL_Introduction_LAB/07. Drop_Tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02.Untroduction_Exercise/01. Create_a_Table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02.Untroduction_Exercise/02. Rename_the_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02.Untroduction_Exercise/03. Alter_the_Table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02.Untroduction_Exercise/04. Rename_Column.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02.Untroduction_Exercise/05. Add_New_Columns.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02.Untroduction_Exercise/06. Create_ENUM_Type.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam/1.1. Database_Design.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam/3.6. Top_3_Most_Commented_Photos.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
