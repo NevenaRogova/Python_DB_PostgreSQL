@@ -1,4 +1,5 @@
 
+
 CREATE TABLE rooms(
 	id SERIAL PRIMARY KEY,
 	occupation VARCHAR(20) NOT NULL,
